@@ -1,7 +1,7 @@
 {
-  "name": "Skeleton",
+  "name": "Server-Monitor",
   "version": "0.0.1",
-  "description": "Dev boilerplate with Bower, Gulp and Live-Reload with JADE and LESS support",
+  "description": "Server Monitor on a node.js base",
   "main": "index.js",
   "scripts": {
     "install": "./node_modules/.bin/bower update && ./node_modules/.bin/bower install",

@@ -1,4 +1,4 @@
-# Skeleton
+# Server Monitor
 
 ## Requirements
 
