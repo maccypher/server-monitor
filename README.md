@@ -7,7 +7,7 @@
 ## Getting started:
 
 1. download / clone into a folder on your local machine
-2. cd into 'skeleton/' 
+2. cd into 'server-monitor/' 
 3. run (bower components will be automatically installed):
 
 		npm install
@@ -27,7 +27,7 @@
 
 ## Notes
 
-The live reload server is listening on the user given port+**1** or by default on port 5001. **Skeleton** creates a dedicated output folder called "**dest/**" and all the compiled stuff will be copied into this folder. The application URL points to this folder.
+The live reload server is listening on the user given port+**1** or by default on port 5001. The app creates a dedicated output folder called "**dest/**" and all the compiled stuff will be copied into this folder. The application URL points to this folder.
 
 ##### Example:
 
